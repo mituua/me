@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: blanchedalmond;
+
+}
+
+menu1{
+    width: 50%;
+    height: 50%;
+
+}
+.menu {
+    width: 50%;
+    height: 50%;
+    display: block;
+    padding: 20px 0px;
+    text-align: right;
+}
+.menu a {
+    color: rgb(26, 46, 26);
+    text-align: center;
+    float: center;
+    margin: 10px 10px;
+    text-decoration: none;
+    font-size: 22px;
+}
+.menu a:hover {
+    padding: 20px 20px;
+    background-color: rgb(179, 105, 109);
+    color: white;
+    text-shadow: 2px 2px rgb(207, 181, 181);
+}
+
+  
